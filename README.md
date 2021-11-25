@@ -1,2 +1,2 @@
-# impact-recovery
-U.S. Labor Market: COVID-19 Impact and Recovery
+# COVID-impact
+U.S. Labor Market: Impact of the Coronavirus
